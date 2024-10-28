@@ -33,7 +33,28 @@ URL
 
 ## 주요기능
 - 로그인 / 회원가입
-- 
+  ![Screenshot_20241028-170607_UPHiLL](https://github.com/user-attachments/assets/761cea0e-b4ba-49cf-91e1-52e58ef08348)
+![Screenshot_20241028-170611_UPHiLL](https://github.com/user-attachments/assets/e6ca54b6-274b-4be8-96e0-81bab3c267c2)
+
+- 지도
+  ![Screenshot_20241028-170656_UPHiLL](https://github.com/user-attachments/assets/f07109bc-a793-45ca-af36-d55326d2b403)
+
+- 아바타 및 상품
+  ![Screenshot_20241028-170701_UPHiLL](https://github.com/user-attachments/assets/ce8fefc7-4910-4b28-8605-625bbfc5f401)
+![Screenshot_20241028-170706_UPHiLL](https://github.com/user-attachments/assets/06252a03-c2f8-4594-8ee1-16a38480e79a)
+
+- 보관함
+  ![Screenshot_20241028-170714_UPHiLL](https://github.com/user-attachments/assets/fb8383de-aeb3-4795-ba61-f8d436101226)
+![Screenshot_20241028-170726_UPHiLL](https://github.com/user-attachments/assets/740bc37f-9a78-408a-b647-6f2fb6e28596)
+
+- 개인정보
+  ![Screenshot_20241028-170729_UPHiLL](https://github.com/user-attachments/assets/eaa00357-267e-4a50-a730-8b7d2dfdf5c1)
+
+- 구매정보
+  ![Screenshot_20241028-170733_UPHiLL](https://github.com/user-attachments/assets/0af3d666-560f-4f16-9318-35011f7e2606)
+
+- 시연영상
+https://github.com/user-attachments/assets/39ad9a06-8995-4e51-bf9e-d7e76730c75e
 
 ## 팀 내 역할 
 
