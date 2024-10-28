@@ -29,10 +29,12 @@ backend git
 > https://github.com/phone001/UPHiLLProjectBack.git
 
 URL
-> http://localhost:4000
+> https://uphillmount.store
 
 ## 주요기능
- 결과 이미지 및 기능 설명
+- 로그인 / 회원가입
+- 
+
 ## 팀 내 역할 
 
 ## 이슈사항
