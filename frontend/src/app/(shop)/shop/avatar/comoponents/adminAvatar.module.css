@@ -1,0 +1,65 @@
+.avatar_wrap {
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #F7F5F5;
+}
+
+/* 아바타 이미지 및 사진 가격 */
+.avatar_img {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  position: relative;
+  /* border: 1px solid gray; */
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.3);
+  @apply rounded-md flex justify-center items-end;
+}
+
+.avatar_img .avatar_bg {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.avatar_img>span {
+  position: absolute;
+  @apply text-white font-bold text-sm;
+}
+
+.product_desc>span {
+  display: flex;
+  width: 140px;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+.product_desc>.product_title {
+  height: 20px;
+  font-size: 18px;
+  text-overflow: ellipsis;
+}
+
+.product_desc>.product_price {
+  font-size: 14px;
+}
+
+
+/* 아바타 수정 삭제 버튼 */
+.avatar_btn {
+  /* width: 100px; */
+  @apply flex justify-center;
+}
+
+.avatar_btn span {
+  font-weight: 500;
+  font-size: 15px;
+  padding: 0 5px;
+  @apply block bg-green-900 text-white ml-2 rounded-md;
+}
