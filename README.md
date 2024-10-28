@@ -32,37 +32,37 @@ URL
 > https://uphillmount.store
 
 ## 주요기능
-- 로그인 / 회원가입
+- 로그인 / 회원가입   
   사용자 정보를 입력받아 저장하고 인증받아 다음 페이지로 이동
   ![Screenshot_20241028-170607_UPHiLL](https://github.com/user-attachments/assets/761cea0e-b4ba-49cf-91e1-52e58ef08348)
 ![Screenshot_20241028-170611_UPHiLL](https://github.com/user-attachments/assets/e6ca54b6-274b-4be8-96e0-81bab3c267c2)
 
 
 
-- 지도
+- 지도   
   현재 사용자의 위치 정보를 표시하고 높아지는 고도에 따라 포인트를 지급
   ![Screenshot_20241028-170656_UPHiLL](https://github.com/user-attachments/assets/f07109bc-a793-45ca-af36-d55326d2b403)
 
 
-- 아바타 및 상품
+- 아바타 및 상품   
   지급된 포인트로 아바타나 상품을 구매
   ![Screenshot_20241028-170701_UPHiLL](https://github.com/user-attachments/assets/ce8fefc7-4910-4b28-8605-625bbfc5f401)
 ![Screenshot_20241028-170706_UPHiLL](https://github.com/user-attachments/assets/06252a03-c2f8-4594-8ee1-16a38480e79a)
 
 
-- 보관함
+- 보관함   
   ![Screenshot_20241028-170714_UPHiLL](https://github.com/user-attachments/assets/fb8383de-aeb3-4795-ba61-f8d436101226)
 ![Screenshot_20241028-170726_UPHiLL](https://github.com/user-attachments/assets/740bc37f-9a78-408a-b647-6f2fb6e28596)
 
-- 개인정보
+- 개인정보   
   현재 유저의 정보를 확인하고 닉네임 및 패스워드 변경
   ![Screenshot_20241028-170729_UPHiLL](https://github.com/user-attachments/assets/eaa00357-267e-4a50-a730-8b7d2dfdf5c1)
 
-- 구매정보
+- 구매정보   
   현재 유저가 구매한 상품이력을 확인
   ![Screenshot_20241028-170733_UPHiLL](https://github.com/user-attachments/assets/0af3d666-560f-4f16-9318-35011f7e2606)
 
-- 시연영상
+- 시연영상   
   
 https://github.com/user-attachments/assets/39ad9a06-8995-4e51-bf9e-d7e76730c75e
 
